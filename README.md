@@ -1,5 +1,6 @@
 # Helm Whatup
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3af12525bc548d49acbfe6318dad59a)](https://app.codacy.com/app/l0nax/helm-whatup?utm_source=github.com&utm_medium=referral&utm_content=fabmation-gmbh/helm-whatup&utm_campaign=Badge_Grade_Dashboard)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](/LICENSE.md)
 [![Maintainability](https://api.codeclimate.com/v1/badges/ec4254803f465c1c8a58/maintainability)](https://codeclimate.com/github/fabmation-gmbh/helm-whatup/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ec4254803f465c1c8a58/test_coverage)](https://codeclimate.com/github/fabmation-gmbh/helm-whatup/test_coverage)
